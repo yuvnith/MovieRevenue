@@ -1,0 +1,9 @@
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\bin\Debug\MovieRevenue.exe.config
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\bin\Debug\MovieRevenue.exe
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\bin\Debug\MovieRevenue.pdb
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.csprojResolveAssemblyReference.cache
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.Form1.resources
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.Properties.Resources.resources
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.csproj.GenerateResource.Cache
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.exe
+V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.pdb
