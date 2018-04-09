@@ -7,3 +7,13 @@ V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.Properties.
 V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.csproj.GenerateResource.Cache
 V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.exe
 V:\yuvnith\projects\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.pdb
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\bin\Debug\MovieRevenue.exe.config
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\bin\Debug\MovieRevenue.exe
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\bin\Debug\MovieRevenue.pdb
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.csprojResolveAssemblyReference.cache
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.Form1.resources
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.Properties.Resources.resources
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.csproj.GenerateResource.Cache
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.csproj.CoreCompileInputs.cache
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.exe
+C:\Users\vamshikrishna.pabba\source\repos\Movie Revenue\MovieRevenue\MovieRevenue\obj\Debug\MovieRevenue.pdb
