@@ -118,7 +118,7 @@ namespace MovieRevenue
                 data2.Add(new Movie() { Name = temp[0], Revenue = double.Parse(temp[1]) });
             }
 
-            List<Movie> sortedlist = data2.OrderBy(o => o.Revenue).ToList();
+            List<Movie> sortedlist = data2.OrderByDescending(o => o.Revenue).ToList();
 
             int i = 0;
             string[,] sorteddata = new string[data.Length,2];
@@ -137,7 +137,7 @@ namespace MovieRevenue
             int flag = 0;
             for (int i = 0; i < sorteddata.GetLength(0); i++)
             {
-                if (sorteddata[i, 0].Contains(Name))
+                if (sorteddata[i, 0].ToUpper().Contains(Name))
                 {
                     DisplayRevenue(sorteddata[i, 0] + ">>>>" + sorteddata[i, 1]);
                     flag = 1;
@@ -163,7 +163,8 @@ namespace MovieRevenue
             else
             {
 
-
+                DisplayRevenue("No Movie has the EXACT Revenue");
+                DisplayRevenue("===============================");
                 for (int i = 0; i < sorteddata.GetLength(0); i++)
                 {
                     if (sorteddata[i, 1] == Revenue)
@@ -232,7 +233,7 @@ namespace MovieRevenue
         private void btn_search_Click(object sender, EventArgs e)
         {
             int flag = 0;
-            string searchWord = inp_SearchName.Text;
+            string searchWord = inp_SearchName.Text.ToUpper();
             if (cb_name.Checked )
             {
                 //searchWord = inp_SearchName.Text;
